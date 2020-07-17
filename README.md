@@ -2,9 +2,9 @@
 Project : 
 Create a Docker cluster which is used to host a website. The website should have 3 components:
  
-1)      Database with a simple table (PostrgreSQL, MySQL, etc)
-2)      Python WSGI server (Flask, Django, etc)
-3)      Proxy server (Nginx)
+1)      Database with a simple table 
+2)      Python WSGI server 
+3)      Proxy server 
  
 The server should have a single page that shows the output for a simple select query from the table.
 
